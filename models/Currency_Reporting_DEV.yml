@@ -1,6 +1,6 @@
 unique_name: Currency_Reporting_DEV
 object_type: model
-label: Currency_Reporting
+label: Currency_Reporting_Label
 metrics:
   - unique_name: m_factinternetsales_salesamount_avg
     folder: Base Currency Metrics
