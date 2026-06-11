@@ -1,6 +1,6 @@
 version: 1
-unique_name: AM_CURRENCY_DEV
+unique_name: 3DEV_AM_CURRENCY
 object_type: catalog
-label: 3_DEV_AM_CURRENCY
+label: 3DEV_AM_CURRENCY
 aggressive_agg_promotion: false
 build_speculative_aggs: true
