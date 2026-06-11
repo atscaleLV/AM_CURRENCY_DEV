@@ -1,4 +1,4 @@
-unique_name: Currency_Reporting_DEV
+unique_name: Currency_Reporting
 object_type: model
 label: Currency_Reporting_Label
 metrics:
