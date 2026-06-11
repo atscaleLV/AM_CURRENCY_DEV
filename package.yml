@@ -1,6 +1,0 @@
-version: 1
-packages:
-  - version: commit:db7232650afd8bc257e8c6006db25d1e78be4299
-    name: zShared_Objects_LouisV
-    url: https://github.com/atscaleLV/LV_Shared_souPG_datATD_schADVENTUREWORKS2012
-    branch: main
