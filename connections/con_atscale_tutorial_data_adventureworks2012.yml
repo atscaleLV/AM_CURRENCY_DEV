@@ -3,4 +3,4 @@ object_type: connection
 label: con_atscale_tutorial_data_adventureworks2012
 as_connection: Postgres
 database: atscale_tutorial_data
-schema: am_currency_synth_preserved
+schema: am_currency_synth_full_preserved
